@@ -1,3 +1,4 @@
-# martinpjansen.github.io
+# Hi there, apperantly you forgot to add /home.html!
 
-TEST 123 [go to website](http://martinpjansen.github.io/home.html) alsof het hoort
+# Don't worry, [click here](http://martinpjansen.github.io/home.html) to let me add that for you!
+
