@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "work.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -48,13 +48,14 @@
     "screenshot": "screenshot.png",
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/img-493675-128x119_1.png",
-    "mbrsiteDomain": "nnjhpqg48e",
+    "mbrsiteDomain": "cr92ylqdli",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "witsec-white-label": true
   },
   "pages": {
     "projects.html": {
