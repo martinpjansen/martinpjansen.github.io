@@ -6,9 +6,8 @@
       lang="en-US"
       tabindex="1"
       title="Example heading">
-    Hi there, apperantly you forgot to add /home.html!
-
-Don't worry, [click here](http://martinpjansen.github.io/home.html) to let me add that for you!
+    Hi there, apperantly you forgot to add "/home.html"!
+    <br>Don't worry, <a href="http://martinpjansen.github.io/home.html"> click here </a> </br>to let me add that for you!
      
     Martin
     
